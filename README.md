@@ -1,8 +1,9 @@
 # BE-project--Fruit-Detection
 Fruit and Vegetable identification system using efficient convolutional Neural Networks for transfer learning
 
-Software and Libraries used :
 
+
+Software and Libraries used :
 
 Programming Language : Python 3.8
 
@@ -17,6 +18,7 @@ Dataset: Fruits 360 Kaggle
 Web Framework: Flask
 
 
+
 Steps:
 
 
@@ -25,6 +27,7 @@ Steps:
 3. We have trained our model on fully connected layer for our customized dataset(On train and test dataset).
 4. Deployed our model into web app with flask.
 5. And finally, tested the model and we have predicted the class of given image.
+
 
 
 Result and Conclusion:
