@@ -17,7 +17,7 @@
 2. After that we have performed transfer learning of VGG16 model to extract the feature of convolution layer.
 3. We have trained our model on fully connected layer for our customized dataset(On train and test dataset).
 4. Deployed our model into web app with flask.
-5. And finally, tested the model and we have predicted the class of given image.
+5. And finally, we have predicted the class of given image.
 
 
 **Result and Conclusion:**
