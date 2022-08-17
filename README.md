@@ -4,16 +4,11 @@
 
 **Software and Libraries used :**
   - Programming Language : Python 3.8
-
-Model: VGG16
-
-Software/ Package Manager : Anaconda-Jupyter notebook
-
-Libraries : Keras & Machine Learning Libraries
-
-Dataset: Fruits 360 Kaggle
-
-Web Framework: Flask
+  - Model: VGG16
+  - Software/ Package Manager : Anaconda-Jupyter notebook
+  - Libraries : Keras & Machine Learning Libraries
+  - Dataset: Fruits 360 Kaggle
+  - Web Framework: Flask
 
 
 **Steps:**
@@ -27,8 +22,6 @@ Web Framework: Flask
 
 **Result and Conclusion:**
 
-Hence, we detected several fruits and vegetables with a system accuracy of 91.3%.
-
-The web app detects images when the image is uploaded directly or the URL of the fruits and vegetables is given.
-
-It also gives calorie content per 100g of fruit or vegetables.
+  - Hence, we detected several fruits and vegetables with a system accuracy of 91.3%.
+  - The web app detects images when the image is uploaded directly or the URL of the fruits and vegetables is given.
+  - It also gives calorie content per 100g of fruit or vegetables.
