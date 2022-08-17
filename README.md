@@ -23,4 +23,3 @@ Result and Conclusion:
 Hence, we detected several fruits and vegetables with a system accuracy of 91.3%.
 The web app detects images when the image is uploaded directly or the URL of the fruits and vegetables is given.
 It also gives calorie content per 100g of fruit or vegetables.
-
